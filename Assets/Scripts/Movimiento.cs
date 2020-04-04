@@ -6,9 +6,11 @@ using UnityEngine;
 public class Movimiento : MonoBehaviour
 {
     public float speed;
+    public bool isPlayer2 = false;
 
     private Rigidbody2D myrb;
     private Vector2 direction;
+
 
     // Start is called before the first frame update
     void Start()
@@ -19,7 +21,13 @@ public class Movimiento : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        direction = new Vector2 (Input.GetAxis("Horizontal"), 0);
+        if (!GetComponent<Vida>().isDead)
+        {
+            if (!isPlayer2)
+                direction = new Vector2(Input.GetAxis("HorizontalP1"), 0);
+            else
+                direction = new Vector2(Input.GetAxis("HorizontalP2"), 0);
+        }
     }
 
     private void FixedUpdate()

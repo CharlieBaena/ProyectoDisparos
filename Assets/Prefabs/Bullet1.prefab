@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2450094874058799462}
   m_Layer: 0
   m_Name: Bullet1
-  m_TagString: Untagged
+  m_TagString: balaNormal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116,6 +116,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  timeToDestroy: 2
+  disparoInvertido: 0
+  explosion: {fileID: 6345235163823293546, guid: 7ed682f6adbe57548af70d1a1c2908cd,
+    type: 3}
+  dmg: 1
 --- !u!50 &2450094874058799460
 Rigidbody2D:
   serializedVersion: 4

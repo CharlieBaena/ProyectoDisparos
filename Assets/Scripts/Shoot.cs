@@ -8,21 +8,50 @@ public class Shoot : MonoBehaviour
     public float cooldown = 2f;
 
     private float lastShootTime = 0;
-    
+    private SoundEffect sE;
+    private GameObject padreDisparos;
+
+    private void Start()
+    {
+        sE = GetComponent<SoundEffect>();
+        padreDisparos = GameObject.Find("DisparosYExplosiones");
+    }
+
 
     // Update is called once per frame
     void Update()
     {
 
-        if (Time.time > lastShootTime + cooldown || lastShootTime == 0)
-        {
-            if (Input.GetKey("space"))
+        GameObject shoot;
+        if (!GetComponent<Vida>().isDead) {
+            if (Time.time > lastShootTime + cooldown || lastShootTime == 0)
             {
-                foreach (Transform child in transform)
+                if (!gameObject.GetComponent<Movimiento>().isPlayer2)
                 {
-                    Instantiate(bullet, child.position, Quaternion.identity);
+                    if (Input.GetKey("space"))
+                    {
+                        sE.PlayShoot();
+                        foreach (Transform child in transform)
+                        {
+                            shoot = Instantiate(bullet, child.position, Quaternion.identity);
+                            shoot.transform.parent = padreDisparos.transform;
+                        }
+                        lastShootTime = Time.time;
+                    }
                 }
-                lastShootTime = Time.time;
+                else
+                {
+                    if (Input.GetKey("right ctrl"))
+                    {
+                        sE.PlayShoot();
+                        foreach (Transform child in transform)
+                        {
+                            shoot = Instantiate(bullet, child.position, Quaternion.identity);
+                            shoot.transform.parent = padreDisparos.transform;
+                        }
+                        lastShootTime = Time.time;
+                    }
+                }
             }
         }
 
