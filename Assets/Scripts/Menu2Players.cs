@@ -13,7 +13,6 @@ public class Menu2Players : MonoBehaviour
 
     public void PlayAgainIA()
     {
-        print("entro");
         SceneManager.LoadScene("VsIA");
     }
     public void Exit()

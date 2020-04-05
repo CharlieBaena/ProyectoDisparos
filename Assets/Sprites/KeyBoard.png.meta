@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: 6881cfe67c071154fad5edd14b5aada2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8498334219677705280
+    second: KeyBoard_0
+  - first:
+      213: -2724670581057100566
+    second: KeyBoard_1
+  - first:
+      213: 808318449433572707
+    second: KeyBoard_2
+  - first:
+      213: 3493486823682509238
+    second: KeyBoard_3
+  - first:
+      213: -1206946802874171612
+    second: KeyBoard_4
+  - first:
+      213: 5616939333883194041
+    second: KeyBoard_5
+  - first:
+      213: 392451520889228816
+    second: KeyBoard_6
+  - first:
+      213: 1499645851457235896
+    second: KeyBoard_7
+  - first:
+      213: 2108922007832420885
+    second: KeyBoard_8
+  - first:
+      213: -6350313138562554540
+    second: KeyBoard_9
+  - first:
+      213: 2267194346706430184
+    second: KeyBoard_10
+  - first:
+      213: 18504864431603493
+    second: KeyBoard_11
+  - first:
+      213: -9004099717611183391
+    second: KeyBoard_12
+  - first:
+      213: 1601055214004314341
+    second: KeyBoard_13
+  - first:
+      213: -2293627024084615660
+    second: KeyBoard_14
+  - first:
+      213: 885669885664544383
+    second: KeyBoard_15
+  - first:
+      213: 7533044848660310969
+    second: KeyBoard_16
+  - first:
+      213: -8043949190309703737
+    second: KeyBoard_17
+  - first:
+      213: -3874528901473954020
+    second: KeyBoard_18
+  - first:
+      213: 6158265953768967545
+    second: KeyBoard_19
+  - first:
+      213: 361797687326672555
+    second: KeyBoard_20
+  - first:
+      213: 2403043545509818934
+    second: KeyBoard_21
+  - first:
+      213: 2753048404350147943
+    second: KeyBoard_22
+  - first:
+      213: -8530266541899559691
+    second: KeyBoard_23
+  - first:
+      213: -7261959765536838269
+    second: KeyBoard_24
+  - first:
+      213: -2808316252547369138
+    second: KeyBoard_25
+  - first:
+      213: 7874617095866715149
+    second: KeyBoard_26
+  - first:
+      213: 100358736423501721
+    second: KeyBoard_27
+  - first:
+      213: 2816351605968213037
+    second: KeyBoard_28
+  - first:
+      213: 326364982052573352
+    second: KeyBoard_29
+  - first:
+      213: 8893074269928684966
+    second: KeyBoard_30
+  - first:
+      213: -1302352371704962488
+    second: KeyBoard_31
+  - first:
+      213: 961431829680992703
+    second: KeyBoard_32
+  - first:
+      213: -6854672967597225540
+    second: KeyBoard_33
+  - first:
+      213: 4444860126857931831
+    second: KeyBoard_34
+  - first:
+      213: 2376361522076641525
+    second: KeyBoard_35
+  - first:
+      213: -5419014093800403253
+    second: KeyBoard_36
+  - first:
+      213: -2083679168958485371
+    second: KeyBoard_37
+  - first:
+      213: -8205709260656325896
+    second: KeyBoard_38
+  - first:
+      213: -4671995167371486271
+    second: KeyBoard_39
+  - first:
+      213: -7079345064000234579
+    second: KeyBoard_40
+  - first:
+      213: 3791738947769318592
+    second: KeyBoard_41
+  - first:
+      213: 3773141579883310452
+    second: KeyBoard_42
+  - first:
+      213: -1036533670829348576
+    second: KeyBoard_43
+  - first:
+      213: -8812484772959516976
+    second: KeyBoard_44
+  - first:
+      213: -7405913846530946173
+    second: KeyBoard_45
+  - first:
+      213: -6163460067170597309
+    second: KeyBoard_46
+  - first:
+      213: -791341734879816528
+    second: KeyBoard_47
+  - first:
+      213: -8674541148275807769
+    second: KeyBoard_48
+  - first:
+      213: -8236567877627255478
+    second: KeyBoard_49
+  - first:
+      213: -3396795519928435461
+    second: KeyBoard_50
+  - first:
+      213: 1424888388321844836
+    second: KeyBoard_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeyBoard_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8eba3166446f49b19b01fdb8a1905
+      internalID: 8498334219677705280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 262
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c1ee33433a6d4d98b2faf823c377f
+      internalID: -2724670581057100566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918cc1cd63631634fb9c1d469ffc7913
+      internalID: 808318449433572707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebd0874149a5f64186afeef2d019a62
+      internalID: 3493486823682509238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584baf6d257d374582e4c4983a34d4c
+      internalID: -1206946802874171612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 263
+        width: 280
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd665cfa56293645993aab33adfe13b
+      internalID: 5616939333883194041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2651b5bf10603dc40b3f7b457f1bde21
+      internalID: 392451520889228816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b3fe8375565d4196e68a645d37b28
+      internalID: 1499645851457235896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b44ddeb816c324ebcadecda413381e
+      internalID: 2108922007832420885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 262
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5017e66c93e9314a8fea8eb52c62e79
+      internalID: -6350313138562554540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 263
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5d17168c72b14a8c2ec8d38b700f9
+      internalID: 2267194346706430184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f21b3fd7c20342998dd5bbc59f8c3
+      internalID: 18504864431603493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71dcd422f1e524c8fa5b0665f68ee4
+      internalID: -9004099717611183391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd099b5530489d84ba83f65a43e564fc
+      internalID: 1601055214004314341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 219
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd942c32baa79f4282f69ac628e271c
+      internalID: -2293627024084615660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 219
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d3adf22cca694eab013278488bb24
+      internalID: 885669885664544383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 219
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef767f70ad62934997415efdb81378b
+      internalID: 7533044848660310969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 219
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911044a4a95da9c4ea0a5a031d9a45f8
+      internalID: -8043949190309703737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 219
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5fadbbb62bc344dba04f0895f23190
+      internalID: -3874528901473954020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_19
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 219
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f463ae98fca14db82b865fe509672
+      internalID: 6158265953768967545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 219
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09bc38d0edab0e4d92b71e559aaa041
+      internalID: 361797687326672555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3351187e50bb4eb941620f2046a26
+      internalID: 2403043545509818934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 175
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100d59ebb0805a4eb79ae2608d1d259
+      internalID: 2753048404350147943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 175
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9188e8c7ae9a3c5438dba3e98ea9faba
+      internalID: -8530266541899559691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 175
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a73b58a8cc2a64da1aa74535578917
+      internalID: -7261959765536838269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 175
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0523cdb5af47e2f4abd727457ca08f87
+      internalID: -2808316252547369138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 175
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9299e506b6062f4b91f9b147970c74a
+      internalID: 7874617095866715149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 175
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13339bc09afd03d4eb360902e71688d8
+      internalID: 100358736423501721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 175
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37653a19025c94e9ee3303f666e71c
+      internalID: 2816351605968213037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_29
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 88
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916ca9e9cb7b9d04c96c5a8e2315ad01
+      internalID: 326364982052573352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 133
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7917b90d540aa554da6a10d795eacd0f
+      internalID: 8893074269928684966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d83b7dced44124d829680ad64082a4
+      internalID: -1302352371704962488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 132
+        width: 127
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a273b8af98c164b83648119300c0af
+      internalID: 961431829680992703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 132
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020d31cafef93a47aaef62f0aa451ad
+      internalID: -6854672967597225540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 132
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf9dd4fbcfcf347a586901e5c43eb6
+      internalID: 4444860126857931831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 132
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2872b53dfde34340a798dbe4890e259
+      internalID: 2376361522076641525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a5b5173331094a8f36c68d4d09afc
+      internalID: -5419014093800403253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b0022abac4e048a76a2f4d8f24f49
+      internalID: -2083679168958485371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94069ddb8aec3544b9e162b73e67e5fd
+      internalID: -8205709260656325896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 88
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2a6518ca48c34d975c4ce327b3748
+      internalID: -4671995167371486271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88bd77a2c7157c49a3961365340317c
+      internalID: -7079345064000234579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 88
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92250f1d22f711a4782229cd71393f62
+      internalID: 3791738947769318592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 88
+        width: 129
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbff3ed07677d4981e56d862130861
+      internalID: 3773141579883310452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 88
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06004286956fb4994ef673d51e0029
+      internalID: -1036533670829348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_44
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 42
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25dc69586b4234a99d91cc368cfa16
+      internalID: -8812484772959516976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2ef50594e0184d8c4009139ab14d1
+      internalID: -7405913846530946173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 42
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99623c58880c6845bed9092ededbf46
+      internalID: -6163460067170597309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 42
+        width: 217
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc011b88799fca44b4a3e135428a1e1
+      internalID: -791341734879816528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 42
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d7fe913ac8e847bbe1ec6f1c6e376
+      internalID: -8674541148275807769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_49
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 42
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fd480d90748744826c197c2c8390d
+      internalID: -8236567877627255478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_50
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 43
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e605ba7160fc96c429d633638c6634e0
+      internalID: -3396795519928435461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a9a4728426bf459ab54e0923a5852
+      internalID: 1424888388321844836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b92949ea047c8944d87f74541c353686, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 5
 --- !u!212 &989768729
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1645,7 +1645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95b08ddd5f4510e4eac1d0d3b8580d7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.005
 --- !u!64 &1295689643
 MeshCollider:
   m_ObjectHideFlags: 0
